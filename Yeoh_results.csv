@@ -1,0 +1,2 @@
+model_name,parameters,initial_guesses,bounds,rmse,bic,original_file,note,note2,category
+Yeoh,0.369,56.353,-1000,"1, ,, 1, ,, 1","-1000,-1000,-1000, 1000,1000,1000",0.301,-521.219,Posterior red sample 5.csv,,,Musculoskletal
