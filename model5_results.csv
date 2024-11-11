@@ -1,2 +1,0 @@
-model_name,parameters,initial_guesses,bounds,rmse,bic,original_file,note,note2,category
-model5,-0.001,0.443,0.775,17.685,"1, ,, 1, ,, 1, ,, 1","-1000,-1000,-1000,-1000, 1000,1000,1000,10000",0.419,-347.906,Posterior White Sample 5.csv,note1,note2,Brain
