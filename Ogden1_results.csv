@@ -1,2 +1,3 @@
 model_name,parameters,initial_guesses,bounds,rmse,bic,original_file,note,note2,category
 Ogden1,0,27.545,"1, ,, 1",unbounded,0.157,-678.663,Anterior_red_sample3.csv,Note1,Note2,Musculoskletal
+Ogden1,0.225,2.402,"1, ,, 1","Lower: [-1000, -1000], Upper: [1000, 1000]",0.139,-1217.305,updated_file11.csv,,,Other
