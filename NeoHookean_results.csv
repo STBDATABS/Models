@@ -2,3 +2,4 @@ model_name,parameters,initial_guesses,bounds,rmse,bic,original_file,note,note2,c
 NeoHookean,0.207,1,unbounded,1.274,201.403,updated_file12.csv,test1,test2,Other
 NeoHookean,0.207,1,"Lower: [0], Upper: [1000]",1.274,201.403,updated_file12.csv,test1,test2,Other
 NeoHookean,0.074,1,unbounded,2.665,1426.075,updated_file3.csv,tested1,,Other
+NeoHookean,0.342,1,unbounded,4.579,732.735,Posterior red white sample 4.csv,,,Other
