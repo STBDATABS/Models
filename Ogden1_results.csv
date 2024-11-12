@@ -1,0 +1,12 @@
+model_name,Mu1_OG1,Alpha1_OG1,initial_guesses,bounds,rmse,bic,originalfilename,Publicationlink,Notes,Category
+Ogden1,0,27.545,"1, ,, 1",unbounded,0.157,-678.663,Anterior_red_sample3.csv,Placeholderlink,Note2,Musculoskletal
+Ogden1,0.225,2.402,"1, ,, 1",unbounded,0.139,-1217.305,Anterior_red_sample3.csv,Placeholderlink,Note3,Other
+Ogden1,0.329,20.673,"1, ,, 1",unbounded,0.465,-331.937,Anterior_red_sample3.csv,Placeholderlink,Note4,Vasculature
+Ogden1,0.44,11,"1, ,, 1",unbounded,0.12,-331.937,Anterior_red_sample3.csv,Placeholderlink,Note4,Vasculature
+Ogden1,0.33,25,"1, ,, 1",unbounded,0.12,-200,Anterior_red_sample3.csv,Placeholderlink,Note4,Musculoskletal
+Ogden1,0.21,16.8,"1, ,, 1",unbounded,0.12,-331.937,Anterior_red_sample3.csv,Placeholderlink,Note4,Musculoskletal
+Ogden1,0.25,19.3,"1, ,, 1",unbounded,0.12,-293,Anterior_red_sample3.csv,Placeholderlink,Note4,Musculoskletal
+Ogden1,0.15,18.4,"1, ,, 1",unbounded,0.12,-331.937,Anterior_red_sample3.csv,Placeholderlink,Note4,Musculoskletal
+Ogden1,0.36,18.9,"1, ,, 1",unbounded,0.12,-351,Anterior_red_sample3.csv,Placeholderlink,Note4,Musculoskletal
+Ogden1,0.27,28.4,"1, ,, 1",unbounded,0.12,-331.937,Anterior_red_sample3.csv,Placeholderlink,Note4,Other
+Ogden1,0.28,10.2,"1, ,, 1",unbounded,0.12,-678,Anterior_red_sample3.csv,Placeholderlink,Note4,Brain
