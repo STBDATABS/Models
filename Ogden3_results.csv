@@ -400,3 +400,4 @@ model6,17,3,29.95,10.86,43,4.02991,"1, ,, 1, ,, 1, ,, 1, ,, 1, ,, 1","-1000,-100
 model6,27,17,35.3,9.68,34,8.92357,"1, ,, 1, ,, 1, ,, 1, ,, 1, ,, 1","-1000,-1000,-1000,-1000,-1000,-1000, 1000,1000,1000,10000,1000,10000",0.063,-155.362,sample1,Publication link,Experimental details,Biomaterial
 model6,36,16,18.69,14.11,37,9.10957,"1, ,, 1, ,, 1, ,, 1, ,, 1, ,, 1","-1000,-1000,-1000,-1000,-1000,-1000, 1000,1000,1000,10000,1000,10000",0.592,-177.079,sample1,Publication link,Experimental details,Biomaterial
 Ogden3,22.864,29.088,-22.854,28.876,-0.116,40.412,"1, ,, 1, ,, 1, ,, 1, ,, 1, ,, 1",unbounded,0.137,-858.665,Posterior red sample 5.csv,,,Vasculature
+Ogden3,32.012,10.058,260.144,-0.559,-3.233,22.795,"1, ,, 1, ,, 1, ,, 1, ,, 1, ,, 1",unbounded,0.094,-588.991,Posterior red sample 3.csv,Link goes here,Experimental details and tissue region go here,Musculoskletal
