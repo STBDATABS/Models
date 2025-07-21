@@ -1,1 +1,1 @@
-FileName,TissueCategory,Numberofdatapoints,RMSE,C1,K1,K2,PublicationLink,ExperimentalDetails,InitialGuesses,Optimization,Bounds,FibreOrientation,Dispersion
+FileName,TissueCategory,Numberofdatapoints,RMSE,C1,K1,K2,PublicationLink,ExperimentalDetails,InitialGuesses,Optimization,FibreOrientation,Dispersion
