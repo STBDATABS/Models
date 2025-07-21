@@ -2,3 +2,4 @@ filename,Tissue_category,ComputedShear,Params,RMSE,Publicationlink,Additional De
 Sample3_0.5_radial.csv,Cardiac,105,0.0187,0.0462,-0.0072,6.9526,-0.0072,6.9526,0.0275,6.9957,Thisisatestupload1,Thisisatestupload1,"[1, 1, 1, 1, 1, 1]"
 Sample2_0.5_radial.csv,Cardiac,105,0.0133,0.0652,0.0066,6.6615,0.0066,6.6615,0.0063,6.6612,Thisisatestupload1,Thisisatestupload1,"[1, 1, 1, 1, 1, 1]"
 Sample1_0.5_radial.csv,Cardiac,106,0.0646,0.1316,0.0189,4.6817,0.0189,4.6817,0.0185,4.6814,Thisisatestupload1,Thisisatestupload1,"[1, 1, 1, 1, 1, 1]"
+Sample3_0.5_circumferential.csv,Cardiac,90,0.316,1.1736,0.0606,12.9008,0.0606,12.9008,0.0607,12.9009,Thisisatestupload1,Thisisatestupload1,"[1, 1, 1, 1, 1, 1]"
