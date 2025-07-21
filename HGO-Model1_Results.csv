@@ -1,3 +1,4 @@
 FileName,TissueCategory,Numberofdatapoints,RMSE,C1,K1,K2,PublicationLink,ExperimentalDetails,FibreOrientation,Dispersion,InitialGuesses
 
 Subject201_Sample8_AgedVentral_Equibiaxial.csv,epithelial and connective tissue,176,0.0021131042489189737,0.0018,0.0006,7.744,,This is  a test upload 2,,80,0.3
+Subject202_Sample5_AgedVentral_Equibiaxial.csv,epithelial and connective tissue,182,0.002733351064948255,-0.0004,0.0022,2.3,,This is  a test upload 2,,80,0.3
