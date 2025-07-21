@@ -1,2 +1,3 @@
 FileName,TissueCategory,Numberofdatapoints,RMSE,?,?_1,?_1,PublicationLink,ExperimentalDetails,InitialGuesses,Optimization,Bounds
 Sample3_0.5_radial.csv,Cardiac,105,0.0187,0.0462,0.0131,7.0408,Thisisatestupload1,Thisisatestupload1,"[1, 1]"
+Sample2_0.5_radial.csv,Cardiac,105,0.0133,0.0652,0.0196,6.6614,Thisisatestupload1,Thisisatestupload1,"[1, 1]"
