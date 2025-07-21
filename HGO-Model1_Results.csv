@@ -3,3 +3,4 @@ FileName,TissueCategory,Numberofdatapoints,RMSE,C1,K1,K2,PublicationLink,Experim
 Subject201_Sample8_AgedVentral_Equibiaxial.csv,epithelial and connective tissue,176,0.0021131042489189737,0.0018,0.0006,7.744,,This is  a test upload 2,,80,0.3
 Subject202_Sample5_AgedVentral_Equibiaxial.csv,epithelial and connective tissue,182,0.002733351064948255,-0.0004,0.0022,2.3,,This is  a test upload 2,,80,0.3
 Subject112_Sample4_YoungDorsal_Equibiaxial.csv,epithelial and connective tissue,183,0.0050617148978112075,-0.0017,0.0019,26.9641,,This is  a test upload 2,,80,0.3
+Subject203_Sample2_AgedDorsal_Equibiaxial.csv,epithelial and connective tissue,182,0.002195657474926139,-0.0024,0.0081,0.8441,,This is  a test upload 2,,80,0.3
