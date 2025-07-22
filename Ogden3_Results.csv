@@ -2,3 +2,4 @@ FileName,TissueCategory,Numberofdatapoints,RMSE,?,?_1,?_1,?_2,?_2,?_3,?_3,Public
 
 Sample3_0.5_radial.csv,Cardiac,105,0.0128,0,0.6366,1.73,0.6366,1.73,-3.3911,0.6495,This is atestuplaod isotropic!,This is atestuplaod isotropic!,"[1, 1, 1, 1, 1, 1]"
 Sample2_0.5_radial.csv,Cardiac,105,0.0063,0.0211,0.1762,3.037,0.1762,3.037,-0.8379,1.2269,This is atestuplaod isotropic!,This is atestuplaod isotropic!,"[1, 1, 1, 1, 1, 1]"
+Sample1_0.5_radial.csv,Cardiac,106,0.0559,0.0785,-1.3714,0.6562,-1.3714,0.6562,1.0042,1.9487,This is atestuplaod isotropic!,This is atestuplaod isotropic!,"[1, 1, 1, 1, 1, 1]"
