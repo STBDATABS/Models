@@ -6,3 +6,4 @@ Sample1_0.5_radial.csv,Cardiac,106,0.0559,0.0785,-1.3714,0.6562,-1.3714,0.6562,1
 Sample3_0.5_circumferential.csv,Cardiac,90,0.211,0.0726,3.747,4.1955,3.747,4.1955,-26.4065,1.1852,This is atestuplaod isotropic!,This is atestuplaod isotropic!,"[1, 1, 1, 1, 1, 1]"
 Sample2_0.5_circumferential.csv,Cardiac,84,0.1151,0.7877,1.4474,5.9155,1.4474,5.9155,-6.5993,2.3562,This is atestuplaod isotropic!,This is atestuplaod isotropic!,"[1, 1, 1, 1, 1, 1]"
 Sample1_0.5_circumferential.csv,Cardiac,99,0.2514,0.174,-7.766,1.4879,-7.766,1.4879,4.6805,5.0118,This is atestuplaod isotropic!,This is atestuplaod isotropic!,"[1, 1, 1, 1, 1, 1]"
+Sample3_0.2_radial.csv,Cardiac,87,0.0204,0.0393,0.1149,3.4355,0.1149,3.4355,-3.8454,0.1849,This is atestuplaod isotropic!,This is atestuplaod isotropic!,"[1, 1, 1, 1, 1, 1]"
