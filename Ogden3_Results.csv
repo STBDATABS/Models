@@ -1,4 +1,4 @@
-FileName,TissueCategory,Numberofdatapoints,RMSE,?,?_1,?_1,?_2,?_2,?_3,?_3,PublicationLink,ExperimentalDetails,InitialGuesses,Optimization,Bounds
+FileName,TissueCategory,Numberofdatapoints,RMSE,Computed Shear Modulus,Mu_1,Alpha_1,Mu_2,Alpha_2,Mu_3,Alpha_3,PublicationLink,ExperimentalDetails,InitialGuesses,Optimization,Bounds
 
 Sample3_0.5_radial.csv,Cardiac,105,0.0128,0,0.6366,1.73,0.6366,1.73,-3.3911,0.6495,This is atestuplaod isotropic!,This is atestuplaod isotropic!,"[1, 1, 1, 1, 1, 1]"
 Sample2_0.5_radial.csv,Cardiac,105,0.0063,0.0211,0.1762,3.037,0.1762,3.037,-0.8379,1.2269,This is atestuplaod isotropic!,This is atestuplaod isotropic!,"[1, 1, 1, 1, 1, 1]"
