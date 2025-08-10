@@ -1,1 +1,2 @@
-FileName,TissueCategory,Numberofdatapoints,RMSE,?,PublicationLink,ExperimentalDetails,InitialGuesses,Optimization,Bounds
+FileName,TissueCategory,Numberofdatapoints,RMSE,?,PublicationLink,ExperimentalDetails,InitialGuesses,Optimization,Bounds,Algorithm
+Test,Test,Test,Test,Test,Test,Test,Test,Test,Test,Test,Test
