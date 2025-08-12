@@ -1,7 +1,8 @@
 FileName,Author,Associated Publication,TissueOrigin,TissueCategory,Numberofdatapoints,ExperimentalDetails,InitialGuesses,Optimization,Algorithm/Method,,InitalGuesses,Bounds,RMSE,ComputedShearModulus,C01,C10,Placeholdercol3,Placeholdercol4,Placeholdercol5
 PorcineSample2_0.5_circumferential.csv,Afshin Anssari-Benam,Test6,Cardiac,Porcine,Test6,Yes,least-squares,trf,[1.0 1.0],(-inf inf),50,0.1599,-284.6975,16.873,-16.873
 PorcineSample2_0.5_circumferential.csv,Afshin Anssari-Benam,Test6,Cardiac,Porcine,Test6,Yes,least-squares,trf,[1.0 1.0],(-inf inf),50,0.1599,-284.6975,16.873,-16.873
-PorcineSample2_0.5_circumferential.csv,Afshin Anssari-Benam,Test7,Cardiac,Porcine,Test7,Yes,least-squares,trf,[(0, 100), (0, 100),(0, 100),(0, 100),(0, 100),(0, 100)],(-inf inf),50,0.1599,-284.6975,16.873,-16.873
+PorcineSample2_0.5_circumferential.csv,Afshin Anssari-Benam,Test7,Cardiac,Porcine,Test7,Yes,least-squares,trf,placeholder,(-inf inf),50,0.1599,-284.6975,16.873,-16.873
+
 
 
 
