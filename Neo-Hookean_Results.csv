@@ -5,3 +5,4 @@ PorcineSample2_0.5_circumferential,Afshin Anssari-Benam ,Thisisatest,Porcine,Ca
 Sample2_0.2_circumferential.csv,Afshin Anssari-Benam,This is a test,Cardiac,,,,least-squares,,InitialGuess,,,0.7677,5.7876,2.8938
 Sample2_0.2_circumferential.csv,Afshin Anssari-Benam,This is a test,Cardiac,,,,least-squares,,InitialGuess,,,0.7677,5.7876,2.8938
 Sample2_0.2_circumferential.csv,Afshin Anssari-Benam,THis is atest2,Cardiac,Porcine,THis is atest2,Yes,least-squares,,InitialGuess,,,0.7677,5.7876,2.8938
+Sample2_0.2_circumferential.csv,Afshin Anssari-Benam,This is a test 3,Cardiac,Porcine,This is a test 3,Yes,least-squares,trf,InitialGuess,,50,0.7677,5.7876,2.8938
