@@ -1,4 +1,5 @@
 FileName,Author,Associated Publication,TissueOrigin,TissueCategory,Numberofdatapoints,ExperimentalDetails,Rawdataavailable,Optimization,Algorithm/Method,InitalGuesses,Bounds,RMSE,ComputedShearModulus,C1,Placeholdercol2,Placeholdercol3,Placeholdercol4,Placeholdercol5
-PorcineSample2_0.5_circumferential,Afshin Anssari-Benam ,Thisisatest,Porcine,Cardiac,40,Elongationrate,Yes,Thisisatest,Thisisatest,1,"0,100",0.1,1,1,,,,
-PorcineSample2_0.5_circumferential,Afshin Anssari-Benam ,Thisisatest,Porcine,Cardiac,40,Elongationrate,Yes,Thisisatest,Thisisatest,1,"0,100",0.1,1,2,,,,
-PorcineSample2_0.5_circumferential,Afshin Anssari-Benam ,Thisisatest,Porcine,Cardiac,40,Elongationrate,Yes,Thisisatest,Thisisatest,1,"0,100",0.1,2,2,,,,
+PorcineSample2_0.5_circumferential,Afshin Anssari-BenamÂ ,Thisisatest,Porcine,Cardiac,40,Elongationrate,Yes,Thisisatest,Thisisatest,1,"0,100",0.1,1,1,,,,
+PorcineSample2_0.5_circumferential,Afshin Anssari-BenamÂ ,Thisisatest,Porcine,Cardiac,40,Elongationrate,Yes,Thisisatest,Thisisatest,1,"0,100",0.1,1,2,,,,
+PorcineSample2_0.5_circumferential,Afshin Anssari-BenamÂ ,Thisisatest,Porcine,Cardiac,40,Elongationrate,Yes,Thisisatest,Thisisatest,1,"0,100",0.1,2,2,,,,
+Sample2_0.2_circumferential.csv,Afshin Anssari-Benam,This is a test,Cardiac,,,,least-squares,,InitialGuess,,,0.7677,5.7876,2.8938
