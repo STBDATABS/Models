@@ -11,3 +11,5 @@ Sample3_0.2_circumferential.csv,Afshin Anssari-Benam,https://researchportal.port
 PorcineSample2_0.5_circumferential.csv,Afshin Anssari-Benam,https://researchportal.port.ac.uk/en/publications/a-transverse-isotropic-viscoelastic-constitutive-model-for-aortic,Cardiac,Porcine,Elongation/Stretch rate 0.2-0.5 tensile tests to failure,Yes,minimize,SLSQP,"[1, 1]","[[0, 1000], [0, 1000]]",50,0.7677,5.7876,2.8938,0
 
 
+Sample1_0.2_radial.csv,This is a test 3,This is a test 3,Cardiac,Porcine,This is a test 3,Yes,least-squares,trf,"[1, 1]","[[0, 1000], [0, 1000]]",85,0.036,-0.8383,0.9156,-0.9156
+Sample1_0.2_radial.csv,This is a test 3,This is a test 3,Cardiac,Porcine,This is a test 3,Yes,minimize2,L-BFGS-B,"[1, 1]","[[0, 1000], [0, 1000]]",85,0.036,0,0.2925,0
