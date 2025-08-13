@@ -13,3 +13,5 @@ PorcineSample2_0.5_circumferential.csv,Afshin Anssari-Benam,https://researchport
 
 Sample1_0.2_radial.csv,This is a test 3,This is a test 3,Cardiac,Porcine,This is a test 3,Yes,least-squares,trf,"[1, 1]","[[0, 1000], [0, 1000]]",85,0.036,-0.8383,0.9156,-0.9156
 Sample1_0.2_radial.csv,This is a test 3,This is a test 3,Cardiac,Porcine,This is a test 3,Yes,minimize2,L-BFGS-B,"[1, 1]","[[0, 1000], [0, 1000]]",85,0.036,0,0.2925,0
+Sample3_0.2_circumferential.csv,This is a test 3,This is a test 3,Cardiac,Porcine,This is a test 3,Yes,least-squares,trf,"[1, 1]","[[0, 1000], [0, 1000]]",56,0.2068,-161.1721,12.6954,-12.6954
+Sample3_0.2_circumferential.csv,This is a test 3,This is a test 3,Cardiac,Porcine,This is a test 3,Yes,minimize2,L-BFGS-B,"[1, 1]","[[0, 1000], [0, 1000]]",56,0.2068,0,2.3998,0
