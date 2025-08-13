@@ -1,9 +1,1 @@
 FileName,Author,Associated Publication,TissueOrigin,TissueCategory,Numberofdatapoints,ExperimentalDetails,Rawdataavailable,Optimization,Algorithm/Method,InitalGuesses,Bounds,RMSE,ComputedShearModulus,C1,Placeholdercol2,Placeholdercol3,Placeholdercol4,Placeholdercol5
-PorcineSample2_0.5_circumferential.csv,Afshin Anssari-Benam,Linkplacehodlertest,Cardiac,Porcine,Test,Yes,minimize,L-BFGS-B,[1],"[[0, 1000]]",50,0.7677,5.7876,2.8938
-
-PorcineSample2_0.5_circumferential.csv,Afshin Anssari-Benam,Linkplacehodlertest,Cardiac,Porcine,Test,Yes,minimize,Nelder-Mead,[1],This was unbounded,50,0.7677,5.7877,2.8938
-
-PorcineSample2_0.5_circumferential.csv,Afshin Anssari-Benam,Test,Cardiac,Porcine,Test,Yes,minimize,L-BFGS-B,[1],"[[0, 1000]]",50,0.7677,5.7876,2.8938
-PorcineSample2_0.5_circumferential.csv,Afshin Anssari-Benam,Test,Cardiac,Porcine,Test,Yes,minimize,Nelder-Mead,[1],This was unbounded,50,0.7677,5.7877,2.8938
-
-Sample2_0.2_circumferential.csv,Afshin Anssari-Benam,Test,Cardiac,Select an option,Test,Select an option,least-squares,trf,[1],"[[0, 1000]]",50,0.7677,5.7876,2.8938
