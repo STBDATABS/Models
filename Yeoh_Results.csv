@@ -1,9 +1,0 @@
-FileName,Author,Associated Publication,TissueOrigin,TissueCategory,Numberofdatapoints,ExperimentalDetails,InitialGuesses,Optimization,Algorithm/Method,,InitalGuesses,Bounds,RMSE,ComputedShearModulus,C10,C20,C30,Placeholdercol4,Placeholdercol5,Placeholdercol6
-PorcineSample2_0.5_circumferential.csv,Afshin Anssari-Benam,Test7,Cardiac,Porcine,Test7,Yes,leastsquares,trf,InitialGuess,Thisisatest,50,0.0341,0.1198,0.0599,25.7466,-95.1149
-
-
-PorcineSample2_0.5_circumferential.csv,Thisisatest,Thisisatest,"[""firstvariable"": Thisisatest, ""secondvariable"": Thisisatest]",Cardiac,Porcine,Thisisatest,"[""firstvariable"": Thisisatest, ""secondvariable"": Thisisatest]",minimize,SLSQP,"[1, 1, 1]","[[0, 1000], [0, 1000], [-1000, 1000]]",74,0.0804,0,0,20.7682,-21.9297
-
-
-porcineaorticvalveaveragedradial0.2.csv,Test,Test,,1,1,1,16120.1498,Test,Other
-porcineaorticvalveaveragedradial0.2.csv,Test,Test,,0.03024851889589054,0.3323488038304262,-0.13354344074612987,0.012,Test,Other,"[""Unique Tissue Name"":Test,""directionality"": Test, ""Additional Characteristics"": Test]","[""Samplethickness"":Test,""CSA "": Test,""sampleage"":Test]","[""experimentalmode"":BT,""mediummode "": Fluid or dry medium,""preconditioning"":Test,""testingequipment"":Test]"
