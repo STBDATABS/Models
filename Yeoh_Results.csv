@@ -6,3 +6,4 @@ PorcineSample2_0.5_circumferential.csv,Thisisatest,Thisisatest,"[""firstvariable
 
 
 porcineaorticvalveaveragedradial0.2.csv,Test,Test,,1,1,1,16120.1498,Test,Other
+porcineaorticvalveaveragedradial0.2.csv,Test,Test,,0.03024851889589054,0.3323488038304262,-0.13354344074612987,0.012,Test,Other,"[""Unique Tissue Name"":Test,""directionality"": Test, ""Additional Characteristics"": Test]","[""Samplethickness"":Test,""CSA "": Test,""sampleage"":Test]","[""experimentalmode"":BT,""mediummode "": Fluid or dry medium,""preconditioning"":Test,""testingequipment"":Test]"
