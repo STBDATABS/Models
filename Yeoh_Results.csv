@@ -5,3 +5,4 @@ PorcineSample2_0.5_circumferential.csv,Afshin Anssari-Benam,Test7,Cardiac,Porcin
 PorcineSample2_0.5_circumferential.csv,Thisisatest,Thisisatest,"[""firstvariable"": Thisisatest, ""secondvariable"": Thisisatest]",Cardiac,Porcine,Thisisatest,"[""firstvariable"": Thisisatest, ""secondvariable"": Thisisatest]",minimize,SLSQP,"[1, 1, 1]","[[0, 1000], [0, 1000], [-1000, 1000]]",74,0.0804,0,0,20.7682,-21.9297
 
 
+porcineaorticvalveaveragedradial0.2.csv,Test,Test,,1,1,1,16120.1498,Test,Other
