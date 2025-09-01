@@ -7,3 +7,4 @@ Thisisatestmanual,DOILINK,Authorsmanual,No,Averaged,1,2,2,0.22,1.6,Other,Ovine,N
 ,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,
+Test2,Test2,Test2,No,Averaged,1,3,8,0.24(RMSE),1.6,Other,Other,Not Known,"[""Unique Tissue Name"":Aortic Valve,""directionality"": Radial , ""Additional Characteristics"": No]","[""Samplethickness"":N/A,""CSA "": N/A,""sampleage"":3 days]","[""Tools"":Cutting tools,saw,""Chemicaltreatment "": None,""Extra details"":None]",Fluid or dry medium,"[""testingequipment"":Uniaxial Tester]","[""experimentalmode"":custom,""mediummode "": Fluid or dry medium,""preconditioning"":N/A]","[""Software"":OTHER,""Optimization_detail "": function1,""FittingMetric"":0.24(RMSE),"" OptimizationextraDetails"":None]"
