@@ -1,0 +1,9 @@
+EntryName,PublicationLink,Authors,DataAvailability,ResultType,C10,C01,ShearModulus,FittingQualityMetric,Stretch_Range,Tissue_Category,Tissue_Origin,Tissue_Health_Status,Other_Tissue_Details,Sample_Dimensions,Sample_Preparation_details,TestingMedium,ExperimentalDetails,Modelling Details,
+Thisisatestmanual,DOILINK,Authorsmanual,No,Averaged,1,2,2,0.22,1.6,Other,Ovine,Not Known,"[""Unique Tissue Name"":Aortic Valve,""directionality"": Radial , ""Additional Characteristics"": No]","[""Samplethickness"":N/A,""CSA "": N/A,""sampleage"":3 days]","[""Tools"":Cutting tools,saw,""Chemicaltreatment "": None,""Extra details"":None]",Dry,"[""testingequipment"":Uniaxial Tester]","[""experimentalmode"":UT,""mediummode "": Dry,""preconditioning"":N/A]","[""Software"":MATLAB,""Optimization_detail "": function1,""FittingMetric"":0.22(RMSE),"" OptimizationextraDetails"":None]"
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
