@@ -16,3 +16,4 @@ Sample1_0.5_circumferential.csv,Test,Test,No,Averaged,0.9706056712702474,9.86652
 
 
 
+boc_bm_medmenI_01_yield.csv,Test,Thisisatest,Yes,,1.4120143613011147,432.0344963545495,0,2.824,0.453,1,Musculoskeletal,Bovine,Healthy,"[""Unique Tissue Name"":Aortic Valve, ""Additional Characteristics"": No]","[""Samplethickness"":1,""CSA "": 1,""sampleage"":3 days]","[""Tools"":N/A,""Chemicaltreatment "": N/A,""Extra details"":None]",Fluid,Uniaxial Tester,"[""experimentalmode"":UC,""mediummode "": Fluid,""preconditioning"":Not Known]","[""Software"":""Python Flask App"",""Optimization_Type "": minimize,""Algorithm"":SLSQP]"
