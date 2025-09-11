@@ -66,3 +66,4 @@ bovine_medial_meniscus_circumferential_cd_02_yield.csv, 10.1098/rsos.181166,"Joh
 
 
 
+Sample2_0.2_circumferential.csv,This is a test,This is a test,Test,,1.073468346764411,7.427137369725601,1.8707e-15,2.146936693528822,0.2082,[object Object],Musculoskeletal,Select an option,Sourcing of the tissue,Healthy,,,"[""Unique Tissue Name"":Test,""Additional Characteristics"": ]","[""Samplethickness"":[object Object],""Samplewidth "": [object Object],""Samplelength "": [object Object],""sampleage"":]","[""Tools"":,""Chemicaltreatment "": ,""Extra details"":None]",Fluid or dry medium,UT,,"[""mediummode "": Fluid or dry medium,""preconditioning"":]","[""Software"":""Python Flask App"",""Optimization_Type "": minimize,""Algorithm"":SLSQP]","[""InitialGuesses"":[1, 1, 1],""Bounds"": [[0, 1000], [0, 1000], [0, 1000]]]"
